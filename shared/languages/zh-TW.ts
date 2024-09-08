@@ -38,7 +38,7 @@ export const ZH_TW = {
    AdvisorGreatPeopleTitle: "Great People",
    AdvisorHappinessContent:
       "Happiness is the core mechanic in CivIdle that limits expansion. You gain happiness by unlocking new technology, advancing to new ages, building wonders, from Great People who provide it, and a few other ways you can discover as you learn. <b>Each new building costs 1 happiness</b>. For each point above/below 0 happiness, you get a 2% bonus or penalty to your total workers (Capping at -50 and +50 Happiness). You can see a detailed breakdown of your happiness in your <b>Home Building's Happiness section</b>.",
-   AdvisorHappinessTitle: "Keep Your People Happy",
+   AdvisorHappinessTitle: "讓你的人們幸福",
    AdvisorOkay: "Got it, thanks!",
    AdvisorScienceContent:
       "Your busy workers generate science, which allows you to unlock new technology and advance your civilization. You can access the research menu a number of ways. By clicking on the science meter, by accessing your unlockable technologies in your Home Building, or by using the 'View' menu. These will all bring you to the tech tree, showing you all the technologies, as well as how much science is required for each. If you have enough science to learn a new technology, simply click on it and press 'unlock' in the sidebar menu. <b>Each new tier and age of technology requires more and more science, but you will unlock new and better ways to gain science as well.</b>",
